@@ -7,3 +7,4 @@
 * [x] Day 3 - Quotations, Comments
 * [x] Day 4 - Links, Images, Colors
 * [x] Day 5 - Tables
+* [x] Day 6 - Forms, Basic Input Types
